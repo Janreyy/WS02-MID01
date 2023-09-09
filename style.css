@@ -34,8 +34,8 @@
     padding: 0 20px;
     }
     img.big-image{
-   
-    max-width: 100%;
+    justify-content: center;
+    max-width: 120%;
     }
     p.caption{
     font-size: 40px;
@@ -48,7 +48,7 @@
     margin: 0;
     }
     a{
-    color: rgb(100,136,234);
+    color: rgb(255, 0, 0);
     text-decoration: none;
     }
     
